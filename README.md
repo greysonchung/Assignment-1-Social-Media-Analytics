@@ -1,5 +1,6 @@
 # COMP90024 Social Media Analytics
 
+- Achieved an overall 9/10
 The task in this programming assignment is to implement a parallelized application leveraging the University of Melbourne HPC facility SPARTAN.
 
 ## Group Members
